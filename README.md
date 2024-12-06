@@ -1,0 +1,3 @@
+# Next.js 15 App Router Link Component Issue
+
+This repository demonstrates an unexpected behavior encountered when using the Next.js 15 App Router with links within a specific component.  The issue is that the link sometimes fails to navigate correctly, resulting in an unexpected page or no navigation at all. This seems to be triggered by a race condition or interaction with other parts of the application.
